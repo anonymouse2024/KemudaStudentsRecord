@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606796671893",
+    "project_id": "kemuda-f5518",
+    "storage_bucket": "kemuda-f5518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606796671893:android:58318681032b75c82ae49c",
+        "android_client_info": {
+          "package_name": "com.example.kemudastudentsrecord"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9G4nflR6WqZZZfjZRqEMU-Fmj08-aq_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
